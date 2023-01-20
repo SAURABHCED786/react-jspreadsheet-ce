@@ -126,7 +126,7 @@ function Spreadsheet() {
   return (
     <div>
       <Page >
-        <Card sectioned>
+        <Card title={<center><h1 style={{fontSize:"25px",fontWeight:"600"}}>Demo Jspreadsheet Reactjs Using GitHub API</h1></center>} sectioned>
           <div id='spreadsheet'></div>
         </Card>
       </Page>
