@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+
+#spreadsheet tbody tr:nth-child(even) {
+  background-color: #eee;
+}
